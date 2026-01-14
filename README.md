@@ -11,8 +11,6 @@
 - 💬 Ask me about **React.js and JavaScript.**
 
 - 📫 How to reach me **- 🔭 I'm currently working on **a E-Commerce Website**
-  
-<img align="right" alt="Coding animation" width="400" style="border-radius: 25px;" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 - 🌱 I'm currently learning **Next.js and TypeScript.**
 
