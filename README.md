@@ -6,17 +6,9 @@
   
 <img align="right" alt="Coding animation" width="400" style="border-radius: 25px;" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
-- 🌱 I'm currently excelling my skills in  **React.js**
+- 🌱 I'm currently excelling my skills in **React.js and JavaScript.**
 
 - 💬 Ask me about **React.js and JavaScript.**
-
-- 📫 How to reach me **- 🔭 I'm currently working on **a E-Commerce Website**
-
-- 🌱 I'm currently learning **Next.js and TypeScript.**
-
-- 👯 I'm looking to collaborate on **open source projects**
-
-- 🤝 I'm looking for help with **UI/UX Design Ethics**
 
 - 💬 Ask me about **React.js, Tailwind CSS and JavaScript.**
 
@@ -30,4 +22,4 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mysql,mongodb" />
 
 ### IDE and Tools I Use
-<img src="https://skillicons.dev/icons?i=vscode,vite,git,github"/>**
+<img src="https://skillicons.dev/icons?i=vscode,vite,git,github"/>
