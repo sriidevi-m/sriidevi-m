@@ -24,10 +24,7 @@
 
 - ⚡ Fun fact **I think I am funny and studious.**
 
-- 📄 Know about my experiences **[Dharun's Resume](https://drive.google.com/file/d/1WTB3OI4DQzbLq14yUSTdkHrM-29XvehC/view?usp=sharing)**
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dharunkumar-sh&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+- 📄 Know about my experiences **[Sridevi's Resume](https://drive.google.com/file/d/1hNd3cA5Y0g4u20BCXteb1FoHrnsfiqVU/view?usp=drive_link)**
 
 ### I code in
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mysql,mongodb" />
